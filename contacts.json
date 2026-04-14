@@ -1,0 +1,44 @@
+[
+  {
+    "email": "emma@designhub.com",
+    "firstname": "Emma",
+    "lastname": "Wilson",
+    "company": "DesignHub",
+    "persona": "founder"
+  },
+  {
+    "email": "daniel@designhub.com",
+    "firstname": "Daniel",
+    "lastname": "Nguyen",
+    "company": "DesignHub",
+    "persona": "ops_manager"
+  },
+  {
+    "email": "mia@creativelab.com",
+    "firstname": "Mia",
+    "lastname": "Chen",
+    "company": "CreativeLab",
+    "persona": "creative_pro"
+  },
+  {
+    "email": "alex@brandforge.io",
+    "firstname": "Alex",
+    "lastname": "Martinez",
+    "company": "BrandForge",
+    "persona": "founder"
+  },
+  {
+    "email": "jason@brandforge.io",
+    "firstname": "Jason",
+    "lastname": "Park",
+    "company": "BrandForge",
+    "persona": "ops_manager"
+  },
+  {
+    "email": "sophia@pixelstudio.co",
+    "firstname": "Sophia",
+    "lastname": "Kim",
+    "company": "PixelStudio",
+    "persona": "creative_pro"
+  }
+]

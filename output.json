@@ -1,0 +1,69 @@
+{
+  "blog": {
+    "title": "How AI Is Transforming Creative Agency Workflows",
+    "outline": [
+      "Why creative agencies are overloaded",
+      "How AI reduces repetitive work",
+      "Examples of AI in agency operations",
+      "How teams can stay creative while using automation"
+    ],
+    "blog_draft": "Creative agencies are under pressure to do more with fewer resources. \nFrom managing client communication to coordinating internal workflows, teams often spend too much time on repetitive work that slows down creativity.\n\nAI tools are helping agencies automate routine tasks such as scheduling, follow-up emails, project updates, and content planning. Instead of replacing creative teams, these tools can reduce operational overhead and free up more time for strategic and creative work.\n\nFor founders, AI can support scale without immediately increasing headcount. For operations managers, AI can reduce handoff issues and improve process visibility. For creative professionals, AI can remove admin-heavy tasks and make more room for actual creative output.\n\nThe most effective agencies will not be the ones that automate everything blindly. They will be the ones that use AI thoughtfully to improve speed, consistency, and team focus while protecting the human side of creative work."
+  },
+  "newsletters": {
+    "founder": {
+      "subject_line": "Scale your agency without scaling headcount",
+      "body": "See how AI can reduce repetitive work, improve efficiency, and help your agency grow without adding unnecessary overhead."
+    },
+    "ops_manager": {
+      "subject_line": "Reduce workflow bottlenecks with AI",
+      "body": "Explore how AI can improve team coordination, reduce manual tasks, and make agency operations run more smoothly."
+    },
+    "creative_pro": {
+      "subject_line": "Let AI handle the admin work",
+      "body": "Learn how AI can take repetitive tasks off your plate so you can spend more time on creative thinking and execution."
+    }
+  },
+  "campaign_logs": [
+    {
+      "blog_title": "How AI Is Transforming Creative Agency Workflows",
+      "persona": "founder",
+      "newsletter_subject": "Scale your agency without scaling headcount",
+      "recipient_count": 2,
+      "send_date": "2026-04-14T12:14:31.516004"
+    },
+    {
+      "blog_title": "How AI Is Transforming Creative Agency Workflows",
+      "persona": "ops_manager",
+      "newsletter_subject": "Reduce workflow bottlenecks with AI",
+      "recipient_count": 2,
+      "send_date": "2026-04-14T12:14:31.516017"
+    },
+    {
+      "blog_title": "How AI Is Transforming Creative Agency Workflows",
+      "persona": "creative_pro",
+      "newsletter_subject": "Let AI handle the admin work",
+      "recipient_count": 2,
+      "send_date": "2026-04-14T12:14:31.516021"
+    }
+  ],
+  "performance_data": [
+    {
+      "persona": "founder",
+      "open_rate": 0.44,
+      "click_rate": 0.13,
+      "unsubscribe_rate": 0.01
+    },
+    {
+      "persona": "ops_manager",
+      "open_rate": 0.39,
+      "click_rate": 0.09,
+      "unsubscribe_rate": 0.008
+    },
+    {
+      "persona": "creative_pro",
+      "open_rate": 0.48,
+      "click_rate": 0.16,
+      "unsubscribe_rate": 0.012
+    }
+  ]
+}
